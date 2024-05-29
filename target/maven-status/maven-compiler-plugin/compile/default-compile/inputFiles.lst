@@ -1,7 +1,7 @@
-D:\Github\Task1\demo\src\main\java\edu\javacourse\city\domain\PersonResponse.java
-D:\Github\Task1\demo\src\main\java\edu\javacourse\city\exception\PersonCheckException.java
-D:\Github\Task1\demo\src\main\java\edu\javacourse\city\dao\ConnectionBuilder.java
-D:\Github\Task1\demo\src\main\java\edu\javacourse\city\domain\LocalDateAdapter.java
-D:\Github\Task1\demo\src\main\java\edu\javacourse\city\domain\PersonRequest.java
-D:\Github\Task1\demo\src\main\java\edu\javacourse\city\dao\PersonCheckDao.java
-D:\Github\Task1\demo\src\main\java\edu\javacourse\city\dao\PoolConnectionBuilder.java
+D:\Github\Task1\src\main\java\edu\javacourse\city\domain\LocalDateAdapter.java
+D:\Github\Task1\src\main\java\edu\javacourse\city\exception\PersonCheckException.java
+D:\Github\Task1\src\main\java\edu\javacourse\city\dao\PoolConnectionBuilder.java
+D:\Github\Task1\src\main\java\edu\javacourse\city\dao\PersonCheckDao.java
+D:\Github\Task1\src\main\java\edu\javacourse\city\domain\PersonRequest.java
+D:\Github\Task1\src\main\java\edu\javacourse\city\dao\ConnectionBuilder.java
+D:\Github\Task1\src\main\java\edu\javacourse\city\domain\PersonResponse.java
