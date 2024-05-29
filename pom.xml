@@ -91,7 +91,7 @@
                 <artifactId>maven-war-plugin</artifactId>
                 <configuration>
                     <failOnMissingWebXml>false</failOnMissingWebXml>
-                    <outputDirectory>D:\Github\Task1\demo</outputDirectory>
+                    <outputDirectory>D:\Github\Task1</outputDirectory>
                 </configuration>
             </plugin>
         </plugins>
